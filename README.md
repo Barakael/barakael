@@ -34,7 +34,3 @@ My goal is to build innovative, scalable, and user-friendly solutions that make 
 <a href="https://instagram.com/blessings_tzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=barakael&show_icons=true&theme=radical)
