@@ -13,8 +13,8 @@ My goal is to build innovative, scalable, and user-friendly solutions that make 
 
 ### 🏆 Committers Rank in Tanzania
 
-[![Public Tanzania rank](https://user-badge.committers.top/tanzania/barakael.svg)](https://committers.top/tanzania.html)
-[![All contributions rank](https://user-badge.committers.top/tanzania_all/barakael.svg?v=3)](https://committers.top/tanzania_all.html)
+[![Public Tanzania rank](https://user-badge.committers.top/tanzania/Barakael.svg)](https://committers.top/tanzania.html)
+[![All contributions rank](https://user-badge.committers.top/tanzania_all/Barakael.svg?v=3)](https://committers.top/tanzania_all.html)
 
 
 ---
