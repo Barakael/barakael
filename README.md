@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
-
 ## Barakael Lucas Wawo
-**Full-Stack software Developer**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0585ed&size=25&center=true&lines=Web+%7C+App+%7C+IOT+%7C+Network)](https://git.io/typing-svg)  
 
 ---
 
@@ -13,7 +13,14 @@ My goal is to build innovative, scalable, and user-friendly solutions that make 
 
 ### 🏆 Committers Rank in Tanzania
 
-[![Top Committer in Tanzania](https://user-badge.committers.top/tanzania/barakael.svg)](https://user-badge.committers.top/tanzania/barakael)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barakael&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+[![committers.top badge](https://user-badge.committers.top/tanzania/Barakael.svg)](https://committers.top/tanzania.html)
+[![committers.top badge](https://user-badge.committers.top/tanzania_all/barakael.svg)](https://committers.top/tanzania_all.html)
+
 
 ---
 ### 💻 Tech Stack
